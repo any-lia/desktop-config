@@ -44,6 +44,11 @@ Theme from: [https://www.reddit.com/r/unixporn/comments/3cn5gi/tmux_is_my_wm_on_
  - Alt + d	=> Right workspace
  - Alt + z	=> Top workspace
  - Alt + s	=> Bottom workspace
+
+### Gestures
+Installer `touchegg` et `touche`
+Coufig from touchegg.conf
+`cp touchegg.conf ~/.config/touchegg/touchegg.conf`
  
 *And other stuff..*
 
